@@ -1,0 +1,32 @@
+body{
+    background-image:url("https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__340.jpg");
+background-size: cover
+}
+#result1,#result2,#result3{
+    width: 200px;
+    height: 200x;
+    
+}
+h1{
+    font-style: italic;
+    color: rgb(75, 97, 220);
+    text-decoration:wavy;
+    font-size: 60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h2,h4{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    size: 50px;
+}
+label{
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+}
+#Save{
+background-color: blanchedalmond;
+color: brown;
+width: 100px;
+height: 50px;
+border-radius: 10px;
+}https://academy.scene7.com/is/image/academy/20881067?$pdp-gallery-ng$
